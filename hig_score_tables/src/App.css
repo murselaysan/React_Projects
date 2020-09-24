@@ -6,6 +6,25 @@
   height: 40vmin;
   pointer-events: none;
 }
+.main-header{
+  text-align: center;
+  font-size: 3rem;
+}
+.general_border{
+  border: 1rem solid black;
+}
+.country-Table{
+  border: 1rem solid green;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.table-main-head{
+  background-color: indianred;
+  text-align: center;
+  margin: auto;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
